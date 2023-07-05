@@ -3,6 +3,7 @@
 Real-time pose estimation and action recognition
 
 Openpose weight file is collected from [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation), thank for [ildoonet](https://github.com/ildoonet)'s awesome work.
+![](https://github.com/Goblincomet/Action-Recognition-Realtime/blob/main/files/action1.gif)
 
 ## Old version
 
